@@ -7,10 +7,10 @@
 
 # testing
 /coverage
-
+/sampleOutput.json
 # production
 /build
-
+/API.txt
 # misc
 .DS_Store
 .env.local
