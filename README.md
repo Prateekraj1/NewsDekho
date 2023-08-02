@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Getting Started with NewsDekho
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a news app in which you can see india top headlines news fetched through Newsapi .
+
+To Run This App First You need to install node modules by cmd
+@ npm install -g node-modules
+After  this you have to install react router dom by this cmd
+@ npm i react-router-dom
+Now You Need to make a enivronement variable named REACT_APP_NEWS_API in .env.local and paste here your newsapi Api Key.
+
+Features of Our App
+1. Get Top Headlines Faster Than any app.
+2. Search a specific news topic wise via search bar.
+3. Interactive Ui.
+4. Top Headlines Available via topics such as science,business,medical and many more.
+
 
 ## Available Scripts
 
