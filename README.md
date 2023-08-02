@@ -3,9 +3,13 @@
 This is a news app in which you can see india top headlines news fetched through Newsapi .
 
 To Run This App First You need to install node modules by cmd
+
 @ npm install -g node-modules
+
 After  this you have to install react router dom by this cmd
+
 @ npm i react-router-dom
+
 Now You Need to make a enivronement variable named REACT_APP_NEWS_API in .env.local and paste here your newsapi Api Key.
 
 Features of Our App
